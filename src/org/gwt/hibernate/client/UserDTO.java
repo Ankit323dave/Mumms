@@ -2,9 +2,26 @@ package org.gwt.hibernate.client;
 
 import java.io.Serializable;
 
+import org.hibernate.annotations.Entity;
+
+
+
+import javax.persistence.Column;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@javax.persistence.Entity
+@Table(name="USERS")
+
 public class UserDTO implements Serializable {
+	@Id
+	@Column(name="ID")
 	private int id;
+	
+	@Column(name="USERNAME")
 	private String username;
+	
+	@Column(name="PASSWORD")
 	private String password;
 	
 	public UserDTO(){}

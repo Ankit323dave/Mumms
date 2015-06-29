@@ -12,7 +12,7 @@
         <property name="hibernate.connection.password">password</property>
         
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
-       <mapping resource="User.hbm.xml"/>  
-        <!--<mapping class="Employee"/>  -->
+       <!-- <mapping resource="User.hbm.xml"/> -->  
+		<mapping class="org.gwt.hibernate.client.UserDTO"/>  
     </session-factory>
 </hibernate-configuration>
