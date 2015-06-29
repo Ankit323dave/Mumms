@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/hibernate-core-4.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-9.4-1201.jdbc4.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/dom4j.jar/dom4j.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/jta.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/hibernate-commons-annotations-4.0.3.final.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/javax.persistence-2.1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/javassist-3.12.1.GA.jar/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/Downloads/ejb3-persistence.jar/ejb3-persistence.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

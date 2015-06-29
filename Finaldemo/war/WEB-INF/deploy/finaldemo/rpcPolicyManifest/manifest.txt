@@ -1,0 +1,3 @@
+# Module finaldemo
+# RPC service class, partial path of RPC policy file
+com.lister.finaldemo.client.DBconnection, 45FD1DEE501771A70627108FEC0A6F9D.gwt.rpc
