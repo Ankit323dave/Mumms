@@ -1,0 +1,2 @@
+serviceClass: com.lister.finaldemo.client.DBconnection
+path: 45FD1DEE501771A70627108FEC0A6F9D.gwt.rpc
