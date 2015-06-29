@@ -1,0 +1,2 @@
+serviceClass: org.gwt.hibernate.client.UserInterface
+path: 406ACBDD56D25B68E041724E6866B056.gwt.rpc
