@@ -1,0 +1,3 @@
+# Module org.gwt.hibernate.GWTwithHibernate
+# RPC service class, partial path of RPC policy file
+org.gwt.hibernate.client.UserInterface, 09A8E8FB8AFCCE6DF3F6054C36BCF2C7.gwt.rpc

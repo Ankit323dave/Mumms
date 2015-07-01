@@ -1181,10 +1181,10 @@ ot,org.gwt.hibernate.client.HelloHibernate$1::$onClick(Lorg/gwt/hibernate/client
 pt,org.gwt.hibernate.client.HelloHibernate$1::HelloHibernate$1(Lorg/gwt/hibernate/client/HelloHibernate;)V,org.gwt.hibernate.client.HelloHibernate$1,HelloHibernate$1,org/gwt/hibernate/client/HelloHibernate.java,57,0
 a,org.gwt.hibernate.client.HelloHibernate$1::this$0,org.gwt.hibernate.client.HelloHibernate$1,this$0,org/gwt/hibernate/client/HelloHibernate.java,57,-1
 qt,,org.gwt.hibernate.client.UserDTO,,org/gwt/hibernate/client/UserDTO.java,16,-1
-rt,org.gwt.hibernate.client.UserDTO::UserDTO()V,org.gwt.hibernate.client.UserDTO,UserDTO,org/gwt/hibernate/client/UserDTO.java,27,0
-a,org.gwt.hibernate.client.UserDTO::id,org.gwt.hibernate.client.UserDTO,id,org/gwt/hibernate/client/UserDTO.java,19,-1
-b,org.gwt.hibernate.client.UserDTO::password,org.gwt.hibernate.client.UserDTO,password,org/gwt/hibernate/client/UserDTO.java,25,-1
-c,org.gwt.hibernate.client.UserDTO::username,org.gwt.hibernate.client.UserDTO,username,org/gwt/hibernate/client/UserDTO.java,22,-1
+rt,org.gwt.hibernate.client.UserDTO::UserDTO()V,org.gwt.hibernate.client.UserDTO,UserDTO,org/gwt/hibernate/client/UserDTO.java,32,0
+a,org.gwt.hibernate.client.UserDTO::id,org.gwt.hibernate.client.UserDTO,id,org/gwt/hibernate/client/UserDTO.java,24,-1
+b,org.gwt.hibernate.client.UserDTO::password,org.gwt.hibernate.client.UserDTO,password,org/gwt/hibernate/client/UserDTO.java,30,-1
+c,org.gwt.hibernate.client.UserDTO::username,org.gwt.hibernate.client.UserDTO,username,org/gwt/hibernate/client/UserDTO.java,27,-1
 st,org.gwt.hibernate.client.UserDTO_FieldSerializer::deserialize(Lcom/google/gwt/user/client/rpc/SerializationStreamReader;Lorg/gwt/hibernate/client/UserDTO;)V,org.gwt.hibernate.client.UserDTO_FieldSerializer,deserialize,gen/org/gwt/hibernate/client/UserDTO_FieldSerializer.java,37,0
 tt,org.gwt.hibernate.client.UserDTO_FieldSerializer::instantiate(Lcom/google/gwt/user/client/rpc/SerializationStreamReader;)Lorg/gwt/hibernate/client/UserDTO;,org.gwt.hibernate.client.UserDTO_FieldSerializer,instantiate,gen/org/gwt/hibernate/client/UserDTO_FieldSerializer.java,45,0
 ut,org.gwt.hibernate.client.UserDTO_FieldSerializer::setId(Lorg/gwt/hibernate/client/UserDTO;I)V,org.gwt.hibernate.client.UserDTO_FieldSerializer,setId,gen/org/gwt/hibernate/client/UserDTO_FieldSerializer.java,14,0

@@ -4,20 +4,14 @@
 	<classpathentry kind="src" output="test-classes" path="test"/>
 	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/asm-3.1.jar"/>
-	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/cglib-2.2.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/dom4j.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/ejb3-persistence.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/gwt-servlet.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/hibernate3.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/hibernate-annotations.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/hibernate-commons-annotations.jar"/>
-	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/hibernate-commons-annotations-4.0.1.Final.jar"/>
-	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/hibernate-commons-annotations-4.0.3.final.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/hibernate-core.jar"/>
-	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/hibernate-core-4.3.8.Final.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
-	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/javassist.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/javassist-3.12.1.GA.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/javax.persistence-2.1.0-rc1.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/jboss-logging-3.1.0.GA.jar"/>
@@ -25,5 +19,10 @@
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/postgresql-9.4-1201.jdbc4.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/slf4j-api-1.5.2.jar"/>
 	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/slf4j-simple-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/gwt-dev.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/gwt-user.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/lalthantluanga_kh/JARS/asm-3.3.1.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>

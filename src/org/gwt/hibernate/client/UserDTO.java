@@ -14,6 +14,11 @@ import javax.persistence.Table;
 @Table(name="USERS")
 
 public class UserDTO implements Serializable {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	@Id
 	@Column(name="ID")
 	private int id;
